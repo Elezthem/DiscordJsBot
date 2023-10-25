@@ -1,0 +1,2 @@
+# DiscordJsBot
+JavaScript Discord bot
